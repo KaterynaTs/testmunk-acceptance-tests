@@ -1,0 +1,38 @@
+{
+  "btnSignUp": {
+    "criteria": "cssSelector",
+    "locator": ".sign-up-btn"
+  },
+  "edtFullName": {
+    "criteria": "cssSelector",
+    "locator": "#name"
+  },
+  "edtEmail": {
+    "criteria": "cssSelector",
+    "locator": "#email"
+  },
+  "edtPassword": {
+    "criteria": "cssSelector",
+    "locator": "#password"
+  },
+  "edtOrganisation": {
+    "criteria": "cssSelector",
+    "locator": "#organisation-field"
+  },
+  "btnSignUpNow": {
+    "criteria": "cssSelector",
+    "locator": "#signup-submit"
+  },
+  "mdlGettingStarted": {
+    "criteria": "cssSelector",
+    "locator": "#getting-started-modal"
+  },
+  "btnClose": {
+    "criteria": "cssSelector",
+    "locator": ".close"
+  },
+  "lblBreadcrumbTitle": {
+    "criteria": "cssSelector",
+    "locator": "#breadcrumb"
+  }
+}
